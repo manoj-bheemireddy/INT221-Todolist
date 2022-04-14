@@ -2,8 +2,8 @@
 
 Technology Used
 
-HTML
-CSS / BOOTSTRAP
-PHP / LARAVEL
+HTML -
+CSS / BOOTSTRAP -
+PHP / LARAVEL -
 MySql
 
